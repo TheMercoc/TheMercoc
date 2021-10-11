@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @TheMercoc
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-TheMercoc/TheMercoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋, I'm Ryzeon
+
+Custom badge
+
+ Ryzeon Ryzeon
+🌱 I’m currently learning Java
+
+🔭 I’m currently collaborate on FrozedClubDevelopment
+
+📫 How to reach me dev@ryzeon.me
+
+ Ryzeon's github stats Ryzeon's langs
+
+  
